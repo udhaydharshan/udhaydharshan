@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**udhaydharshan/udhaydharshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Udhaydharshan S 👋
+### Engineering Student & Aspiring Software / AI Engineer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/udhaydharshan-s-5b282b302/))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/udhaydharshan])
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhaydharshan1@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=crimson)](https://github.com/udhaydharshan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Background:** Pursuing an undergraduate degree in Engineering.
+- 🎯 **Focus Areas:** Artificial Intelligence, Systems & Software Engineering, Prompt Architecture.
+- 📚 **Current Learning:** Deep Learning architectures, System Design, and Modern Cloud Infrastructure.
+- 💡 **Open To:** Student collaborations, hackathons, and software engineering internships.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Core Languages & Frameworks:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,git,github,vscode" />
+</p>
+
+**AI, Modeling & Engineering Tools:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,autocad,postman,bash" />
+</p>
+
+#### 🤖 Technical Domains of Interest
+| Domain | Focus & Tools |
+| :--- | :--- |
+| **Machine Learning & AI** | Transformer Models, LLMs, Neural Networks |
+| **Prompt Engineering** | Universal Prompting Structures, Context Architecture |
+| **Engineering Design** | Computer-Aided Modeling & Systems Analysis |
+| **Software Development** | Clean Code, Algorithmic Problem Solving |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 🚧 Current Roadmap & In-Progress Work
+
+* 🔄 **Foundation Building:** Implementing core Data Structures & Algorithms in Python / C++.
+* 🔄 **AI Explorations:** Building prototype workflows for LLM integrations and multi-modal experiments.
+* 🔄 **Open Source:** Reviewing issues across developer repositories to make initial code and documentation contributions.
+
+---
+
+<div align="center">
+  <em>"Driven by Curiosity. Engineered with Purpose."</em>
+</div>
