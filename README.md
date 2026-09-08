@@ -3,10 +3,10 @@
 # Hi there, I'm Udhaydharshan S 👋
 ### Engineering Student & Aspiring Software / AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/udhaydharshan-s-5b282b302/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhaydharshan-s-5b282b302/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udhaydharshan)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhaydharshan1.com)
-[![Views](https://komarev.com/ghpvc/?username=udhaydharshan&style=for-the-badge&color=crimson)](https://github.com/udhaydharshan)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhaydharshan1@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=udhaydharshan&style=for-the-badge&color=DC143C)](https://github.com/udhaydharshan)
 
 </div>
 
@@ -48,10 +48,10 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udhaydharshan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udhaydharshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=udhaydharshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udhaydharshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
